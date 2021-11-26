@@ -4,7 +4,7 @@
 
 An argument parsing library designed for extensibility and with easy subcommand support. It supports features like typed arguments, colon-separated values, and displaying multiple levels of extended help information.
 
-Note: this library is still being developed and isn't ready for use yet.
+Note: this library is still being developed and isn't ready for use yet. This project will likely be renamed in the future.
 
 ## Related projects
 
